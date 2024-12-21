@@ -2,6 +2,8 @@
 
 Este projeto é um site interativo que consome a [API pública de Rick and Morty](https://rickandmortyapi.com/) para apresentar informações sobre os personagens da série. Ele combina design moderno com funcionalidades dinâmicas para proporcionar uma experiência divertida e informativa aos fãs da série.
 
+[![Live Server](https://img.shields.io/badge/Live_Server-Click_Here-brightgreen?style=for-the-badge)](https://felipetaua.github.io/Projeto-api-rick-and-morty/)
+
 ---
 
 ## 📋 **Descrição do Projeto**
